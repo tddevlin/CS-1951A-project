@@ -1,0 +1,567 @@
+semester,department,area,respondents,total
+S15,CHIN,Humanities,77,92
+F14,CHIN,Humanities,68,97
+S14,CHIN,Humanities,92,106
+F13,CHIN,Humanities,86,108
+S13,CHIN,Humanities,40,45
+F12,CHIN,Humanities,87,116
+F11,CHIN,Humanities,107,142
+S11,CHIN,Humanities,103,124
+F10,CHIN,Humanities,159,184
+S10,CHIN,Humanities,144,165
+S14,JAPN,Humanities,36,49
+F13,JAPN,Humanities,55,75
+S13,JAPN,Humanities,48,50
+F12,JAPN,Humanities,28,47
+S12,JAPN,Humanities,49,57
+F11,JAPN,Humanities,26,36
+S11,JAPN,Humanities,61,68
+F10,JAPN,Humanities,53,59
+S10,JAPN,Humanities,86,92
+S15,POBS,Humanities,86,91
+F14,POBS,Humanities,93,116
+S14,POBS,Humanities,64,79
+F13,POBS,Humanities,90,98
+S13,POBS,Humanities,45,70
+F12,POBS,Humanities,91,99
+F11,POBS,Humanities,31,33
+S11,POBS,Humanities,64,76
+F10,POBS,Humanities,71,80
+S10,POBS,Humanities,38,42
+F14,KREA,Humanities,6,14
+S15,ENGL,Humanities,103,147
+F14,ENGL,Humanities,39,228
+S14,ENGL,Humanities,57,135
+F13,ENGL,Humanities,144,158
+S13,ENGL,Humanities,35,39
+F12,ENGL,Humanities,128,146
+S12,ENGL,Humanities,53,77
+F10,ENGL,Humanities,50,82
+S10,ENGL,Humanities,84,155
+S11,MDVL,Humanities,10,11
+S10,MDVL,Humanities,7,7
+S15,MCM,Humanities,11,18
+F13,MCM,Humanities,62,103
+F12,MCM,Humanities,34,55
+F11,MCM,Humanities,37,48
+S11,MCM,Humanities,75,85
+F10,MCM,Humanities,50,57
+S10,MCM,Humanities,49,60
+S14,ITAL,Humanities,15,22
+F12,ITAL,Humanities,23,34
+F11,ITAL,Humanities,17,21
+F10,ITAL,Humanities,20,23
+S10,ITAL,Humanities,18,22
+S15,EAST,Humanities,26,36
+F14,EAST,Humanities,10,11
+S14,EAST,Humanities,10,11
+F11,EAST,Humanities,5,8
+F10,EAST,Humanities,11,11
+S10,EAST,Humanities,15,17
+S15,COLT,Humanities,204,334
+F14,COLT,Humanities,37,182
+S14,COLT,Humanities,24,38
+F13,COLT,Humanities,111,160
+S13,COLT,Humanities,23,35
+F12,COLT,Humanities,140,185
+S12,COLT,Humanities,125,184
+F11,COLT,Humanities,145,239
+S11,COLT,Humanities,91,112
+F10,COLT,Humanities,52,62
+S10,COLT,Humanities,129,205
+S15,CLAS,Humanities,40,49
+F14,CLAS,Humanities,129,224
+S14,CLAS,Humanities,33,42
+F13,CLAS,Humanities,38,45
+S13,CLAS,Humanities,20,21
+F12,CLAS,Humanities,145,227
+S12,CLAS,Humanities,11,12
+F11,CLAS,Humanities,54,61
+S11,CLAS,Humanities,52,80
+F10,CLAS,Humanities,53,77
+S10,CLAS,Humanities,33,52
+F12,ARAB,Humanities,9,12
+S11,ARAB,Humanities,27,32
+F10,ARAB,Humanities,75,87
+S10,ARAB,Humanities,32,38
+S15,AMST,Humanities,13,15
+F13,AMST,Humanities,11,11
+S13,AMST,Humanities,20,25
+S15,ARCH,Humanities,31,36
+S14,ARCH,Humanities,37,43
+F13,ARCH,Humanities,87,112
+F12,ARCH,Humanities,13,13
+S12,ARCH,Humanities,124,232
+F11,ARCH,Humanities,98,118
+S11,ARCH,Humanities,63,88
+F10,ARCH,Humanities,80,91
+S10,ARCH,Humanities,195,407
+S15,RUSS,Humanities,24,29
+F14,RUSS,Humanities,37,50
+S14,RUSS,Humanities,30,36
+F13,RUSS,Humanities,37,44
+S13,RUSS,Humanities,46,61
+F12,RUSS,Humanities,64,92
+S12,RUSS,Humanities,47,71
+F11,RUSS,Humanities,41,46
+S11,RUSS,Humanities,12,15
+F10,RUSS,Humanities,31,35
+S10,RUSS,Humanities,28,34
+S14,SLAV,Humanities,2,2
+S12,SLAV,Humanities,11,11
+S11,SLAV,Humanities,7,7
+F14,SIGN,Humanities,29,31
+S14,SIGN,Humanities,28,32
+F13,SIGN,Humanities,20,25
+S13,SIGN,Humanities,5,5
+F12,SIGN,Humanities,29,30
+F11,SIGN,Humanities,22,24
+F10,SIGN,Humanities,27,30
+S10,SIGN,Humanities,27,33
+S15,VISA,Humanities,49,56
+F14,VISA,Humanities,32,64
+S14,VISA,Humanities,49,53
+F13,VISA,Humanities,66,74
+S13,VISA,Humanities,53,56
+F12,VISA,Humanities,6,12
+S12,VISA,Humanities,19,24
+F11,VISA,Humanities,60,81
+S11,VISA,Humanities,110,149
+F10,VISA,Humanities,54,66
+S10,VISA,Humanities,102,124
+S15,TAPS,Humanities,34,41
+F14,TAPS,Humanities,11,37
+S14,TAPS,Humanities,33,40
+F13,TAPS,Humanities,7,11
+F12,TAPS,Humanities,11,14
+S12,TAPS,Humanities,13,17
+F11,TAPS,Humanities,63,72
+S11,TAPS,Humanities,56,72
+F10,TAPS,Humanities,15,17
+S14,MUSC,Humanities,9,48
+F13,MUSC,Humanities,55,72
+F11,MUSC,Humanities,52,119
+S10,MUSC,Humanities,18,24
+F14,LITR,Humanities,6,17
+S14,LITR,Humanities,23,44
+S13,LITR,Humanities,14,18
+F11,LITR,Humanities,21,22
+S11,LITR,Humanities,16,18
+F10,LITR,Humanities,45,58
+S10,LITR,Humanities,70,79
+S15,LATN,Humanities,35,40
+F14,LATN,Humanities,27,31
+S14,LATN,Humanities,34,41
+F13,LATN,Humanities,18,21
+S13,LATN,Humanities,15,15
+F12,LATN,Humanities,41,47
+S12,LATN,Humanities,10,12
+F11,LATN,Humanities,19,22
+S11,LATN,Humanities,5,5
+F10,LATN,Humanities,18,33
+S10,LATN,Humanities,36,44
+S15,PHIL,Humanities,77,109
+F14,PHIL,Humanities,58,68
+S14,PHIL,Humanities,177,257
+F13,PHIL,Humanities,179,242
+S13,PHIL,Humanities,92,190
+F12,PHIL,Humanities,200,363
+S12,PHIL,Humanities,136,206
+F11,PHIL,Humanities,163,234
+S11,PHIL,Humanities,95,143
+F10,PHIL,Humanities,213,349
+S10,PHIL,Humanities,133,203
+S15,GRMN,Humanities,69,78
+F14,GRMN,Humanities,59,78
+S14,GRMN,Humanities,62,67
+F13,GRMN,Humanities,63,81
+S13,GRMN,Humanities,14,16
+F12,GRMN,Humanities,73,81
+S12,GRMN,Humanities,27,36
+F11,GRMN,Humanities,27,31
+S11,GRMN,Humanities,39,47
+F10,GRMN,Humanities,41,49
+S10,GRMN,Humanities,62,77
+S15,SANS,Humanities,4,4
+S14,SANS,Humanities,3,3
+F12,SANS,Humanities,3,3
+S15,PRSN,Humanities,7,7
+F14,PRSN,Humanities,9,9
+S14,PRSN,Humanities,7,7
+S13,PRSN,Humanities,10,12
+F11,PRSN,Humanities,4,5
+S10,PRSN,Humanities,7,7
+S15,GREK,Humanities,4,4
+F14,GREK,Humanities,19,19
+S14,GREK,Humanities,16,16
+F13,GREK,Humanities,26,28
+S13,GREK,Humanities,5,5
+F12,GREK,Humanities,15,17
+S12,GREK,Humanities,9,9
+S11,GREK,Humanities,14,15
+F10,GREK,Humanities,21,26
+S10,GREK,Humanities,20,22
+S15,HMAN,Humanities,14,17
+F14,HMAN,Humanities,26,31
+F13,HMAN,Humanities,16,16
+F12,HMAN,Humanities,12,13
+F11,HMAN,Humanities,10,13
+S15,JUDS,Humanities,26,28
+F14,JUDS,Humanities,8,8
+S14,JUDS,Humanities,22,24
+F13,JUDS,Humanities,14,19
+S13,JUDS,Humanities,8,8
+F12,JUDS,Humanities,23,23
+S12,JUDS,Humanities,22,35
+F11,JUDS,Humanities,19,19
+S11,JUDS,Humanities,39,43
+F10,JUDS,Humanities,23,23
+S10,JUDS,Humanities,3,3
+S15,FREN,Humanities,2,4
+F14,FREN,Humanities,11,14
+S14,FREN,Humanities,4,13
+F12,FREN,Humanities,6,14
+F11,FREN,Humanities,20,20
+S11,FREN,Humanities,15,20
+F10,FREN,Humanities,39,45
+F14,HISP,Humanities,28,67
+S14,HISP,Humanities,22,55
+F13,HISP,Humanities,10,11
+S13,HISP,Humanities,15,20
+F12,HISP,Humanities,17,18
+F10,HISP,Humanities,16,25
+S15,EGYT,Humanities,5,28
+F14,EGYT,Humanities,7,10
+S14,EGYT,Humanities,14,16
+S13,EGYT,Humanities,6,6
+F12,EGYT,Humanities,4,7
+F11,EGYT,Humanities,29,37
+S11,EGYT,Humanities,12,34
+F10,EGYT,Humanities,20,25
+S10,EGYT,Humanities,26,35
+S15,CZCH,Humanities,12,14
+F14,CZCH,Humanities,4,5
+S13,CZCH,Humanities,4,4
+S11,CZCH,Humanities,5,5
+F10,CZCH,Humanities,6,6
+S10,CZCH,Humanities,5,5
+S15,RELS,Humanities,117,156
+F14,RELS,Humanities,17,44
+S14,RELS,Humanities,6,6
+F13,RELS,Humanities,61,98
+S13,RELS,Humanities,3,10
+F12,RELS,Humanities,34,41
+S12,RELS,Humanities,48,72
+F11,RELS,Humanities,38,60
+S11,RELS,Humanities,13,15
+F10,RELS,Humanities,64,90
+S10,RELS,Humanities,36,41
+S15,HIAA,Humanities,9,9
+F14,HIAA,Humanities,5,9
+S14,HIAA,Humanities,5,19
+F13,HIAA,Humanities,40,65
+S13,HIAA,Humanities,4,8
+F12,HIAA,Humanities,149,229
+S12,HIAA,Humanities,167,361
+F11,HIAA,Humanities,170,347
+S11,HIAA,Humanities,146,520
+F10,HIAA,Humanities,285,632
+S10,HIAA,Humanities,130,376
+S10,TSDA,Humanities,7,9
+S15,AWAS,Humanities,14,15
+F14,AWAS,Humanities,26,39
+S14,AWAS,Humanities,19,22
+F13,AWAS,Humanities,24,28
+S13,AWAS,Humanities,6,6
+F12,AWAS,Humanities,13,16
+S12,AWAS,Humanities,19,21
+F11,AWAS,Humanities,10,13
+S11,AWAS,Humanities,22,26
+F10,AWAS,Humanities,56,65
+S10,AWAS,Humanities,12,13
+S14,CROL,Humanities,8,9
+S13,CROL,Humanities,5,5
+F12,CROL,Humanities,3,3
+F11,CROL,Humanities,11,11
+S11,CROL,Humanities,7,7
+F10,CROL,Humanities,2,2
+S10,CROL,Humanities,23,25
+S10,MGRK,Humanities,8,9
+S15,PLSH,Humanities,7,7
+F14,PLSH,Humanities,5,8
+S15,AFRI,Social Sciences,70,75
+F14,AFRI,Social Sciences,27,40
+S14,AFRI,Social Sciences,30,44
+F13,AFRI,Social Sciences,40,56
+S13,AFRI,Social Sciences,32,36
+F12,AFRI,Social Sciences,37,52
+S12,AFRI,Social Sciences,56,70
+S11,AFRI,Social Sciences,97,123
+F10,AFRI,Social Sciences,88,101
+S10,AFRI,Social Sciences,48,65
+S15,ANTH,Social Sciences,101,166
+F14,ANTH,Social Sciences,330,459
+S14,ANTH,Social Sciences,29,117
+F13,ANTH,Social Sciences,125,219
+S13,ANTH,Social Sciences,51,60
+F12,ANTH,Social Sciences,220,338
+S12,ANTH,Social Sciences,81,118
+F11,ANTH,Social Sciences,15,16
+S11,ANTH,Social Sciences,208,333
+F10,ANTH,Social Sciences,183,259
+S10,ANTH,Social Sciences,173,231
+F13,BEO,Social Sciences,9,18
+F14,SCSO,Social Sciences,20,20
+S14,SCSO,Social Sciences,19,20
+F13,SCSO,Social Sciences,15,18
+F12,SCSO,Social Sciences,30,39
+S12,SCSO,Social Sciences,31,33
+F11,SCSO,Social Sciences,9,15
+S11,SCSO,Social Sciences,15,16
+F10,SCSO,Social Sciences,11,14
+S10,SCSO,Social Sciences,19,22
+S15,ENVS,Social Sciences,46,64
+F14,ENVS,Social Sciences,143,164
+S14,ENVS,Social Sciences,56,62
+F13,ENVS,Social Sciences,183,258
+S13,ENVS,Social Sciences,85,113
+F12,ENVS,Social Sciences,80,93
+S12,ENVS,Social Sciences,34,44
+F11,ENVS,Social Sciences,101,121
+S11,ENVS,Social Sciences,16,22
+F10,ENVS,Social Sciences,131,163
+S10,ENVS,Social Sciences,146,185
+S11,AMCV,Social Sciences,23,27
+F10,AMCV,Social Sciences,118,178
+S10,AMCV,Social Sciences,68,73
+F14,ETHN,Social Sciences,38,44
+F13,ETHN,Social Sciences,22,24
+S13,ETHN,Social Sciences,37,43
+F12,ETHN,Social Sciences,46,52
+S12,ETHN,Social Sciences,28,30
+F11,ETHN,Social Sciences,77,90
+S11,ETHN,Social Sciences,37,40
+F10,ETHN,Social Sciences,39,80
+S10,ETHN,Social Sciences,14,15
+S15,ECON,Social Sciences,326,798
+F14,ECON,Social Sciences,382,926
+S14,ECON,Social Sciences,360,679
+F13,ECON,Social Sciences,404,797
+S13,ECON,Social Sciences,175,303
+F12,ECON,Social Sciences,237,448
+S12,ECON,Social Sciences,311,591
+F11,ECON,Social Sciences,595,1419
+S11,ECON,Social Sciences,505,1080
+F10,ECON,Social Sciences,518,1232
+S10,ECON,Social Sciences,751,1541
+S15,SOC,Social Sciences,387,745
+F14,SOC,Social Sciences,251,352
+S14,SOC,Social Sciences,154,212
+F13,SOC,Social Sciences,230,391
+S13,SOC,Social Sciences,59,142
+F12,SOC,Social Sciences,17,17
+S12,SOC,Social Sciences,11,11
+F11,SOC,Social Sciences,147,212
+S11,SOC,Social Sciences,439,690
+F10,SOC,Social Sciences,496,758
+S15,UNIV,Social Sciences,35,40
+F14,UNIV,Social Sciences,10,10
+S14,UNIV,Social Sciences,30,30
+S13,UNIV,Social Sciences,21,22
+F12,UNIV,Social Sciences,22,29
+S12,UNIV,Social Sciences,13,13
+F10,UNIV,Social Sciences,17,31
+S10,UNIV,Social Sciences,39,54
+S15,POLS,Social Sciences,164,287
+F14,POLS,Social Sciences,35,43
+S14,POLS,Social Sciences,143,225
+F13,POLS,Social Sciences,84,169
+F12,POLS,Social Sciences,78,92
+S12,POLS,Social Sciences,59,75
+F11,POLS,Social Sciences,64,87
+S11,POLS,Social Sciences,124,182
+F10,POLS,Social Sciences,188,288
+S10,POLS,Social Sciences,164,283
+F14,EDUC,Social Sciences,20,47
+S14,EDUC,Social Sciences,8,15
+F13,EDUC,Social Sciences,46,61
+S13,EDUC,Social Sciences,18,22
+F12,EDUC,Social Sciences,81,99
+S12,EDUC,Social Sciences,33,49
+F11,EDUC,Social Sciences,55,74
+S11,EDUC,Social Sciences,41,60
+F10,EDUC,Social Sciences,58,74
+S15,URBN,Social Sciences,17,20
+F14,URBN,Social Sciences,39,152
+S14,URBN,Social Sciences,8,9
+F13,URBN,Social Sciences,16,18
+S12,URBN,Social Sciences,26,28
+F11,URBN,Social Sciences,37,40
+S11,URBN,Social Sciences,87,101
+S15,MES,Social Sciences,15,17
+F14,INTL,Social Sciences,141,188
+S14,INTL,Social Sciences,30,41
+F13,INTL,Social Sciences,27,42
+S13,INTL,Social Sciences,10,10
+S12,INTL,Social Sciences,29,38
+F11,INTL,Social Sciences,21,22
+S11,INTL,Social Sciences,33,86
+F10,INTL,Social Sciences,27,38
+S10,INTL,Social Sciences,63,75
+S15,HIST,Social Sciences,531,651
+F14,HIST,Social Sciences,588,731
+S14,HIST,Social Sciences,284,373
+F13,HIST,Social Sciences,366,460
+S13,HIST,Social Sciences,87,125
+F12,HIST,Social Sciences,365,475
+S12,HIST,Social Sciences,306,396
+F11,HIST,Social Sciences,495,621
+S11,HIST,Social Sciences,491,657
+F10,HIST,Social Sciences,334,447
+S10,HIST,Social Sciences,323,398
+S15,GNSS,Social Sciences,81,113
+S14,GNSS,Social Sciences,82,100
+F13,GNSS,Social Sciences,12,21
+S12,GNSS,Social Sciences,68,80
+S11,GNSS,Social Sciences,30,38
+F10,GNSS,Social Sciences,6,6
+S10,GNSS,Social Sciences,27,27
+S15,DEVL,Social Sciences,4,15
+S13,DEVL,Social Sciences,17,18
+S11,DEVL,Social Sciences,12,20
+F13,ERLY,Social Sciences,11,18
+S15,PPAI,Social Sciences,28,125
+F14,PPAI,Social Sciences,58,66
+S14,PPAI,Social Sciences,119,153
+F13,PPAI,Social Sciences,83,91
+S13,PPAI,Social Sciences,107,136
+F12,PPAI,Social Sciences,35,42
+S12,PPAI,Social Sciences,33,37
+F11,PPAI,Social Sciences,32,37
+S11,PPAI,Social Sciences,81,100
+F10,PPAI,Social Sciences,74,85
+S10,PPAI,Social Sciences,89,117
+S15,LAST,Social Sciences,7,9
+S14,LAST,Social Sciences,10,12
+F13,LAST,Social Sciences,6,9
+S15,BIOL,Life Sciences,475,1028
+F14,BIOL,Life Sciences,552,812
+S14,BIOL,Life Sciences,502,761
+F13,BIOL,Life Sciences,629,976
+S13,BIOL,Life Sciences,427,556
+F12,BIOL,Life Sciences,769,1145
+S12,BIOL,Life Sciences,327,526
+F11,BIOL,Life Sciences,759,1128
+S11,BIOL,Life Sciences,758,1531
+F10,BIOL,Life Sciences,619,960
+S10,BIOL,Life Sciences,921,1569
+S10,COGS,Life Sciences,101,144
+S15,CLPS,Life Sciences,275,451
+F14,CLPS,Life Sciences,284,457
+S14,CLPS,Life Sciences,269,477
+F13,CLPS,Life Sciences,295,530
+S13,CLPS,Life Sciences,301,452
+F12,CLPS,Life Sciences,90,182
+S12,CLPS,Life Sciences,269,563
+F11,CLPS,Life Sciences,269,557
+S11,CLPS,Life Sciences,152,295
+F10,CLPS,Life Sciences,344,773
+S15,NEUR,Life Sciences,86,112
+F14,NEUR,Life Sciences,321,548
+S14,NEUR,Life Sciences,166,228
+F13,NEUR,Life Sciences,404,637
+S13,NEUR,Life Sciences,155,252
+F12,NEUR,Life Sciences,244,407
+S12,NEUR,Life Sciences,56,106
+F11,NEUR,Life Sciences,385,581
+S11,NEUR,Life Sciences,163,257
+F10,NEUR,Life Sciences,341,521
+S10,NEUR,Life Sciences,120,178
+S15,PLME,Life Sciences,15,16
+F14,PLME,Life Sciences,37,37
+F13,PLME,Life Sciences,33,33
+S10,PSYC,Life Sciences,58,183
+S15,PHP,Life Sciences,190,368
+F14,PHP,Life Sciences,175,466
+F13,PHP,Life Sciences,81,99
+F12,PHP,Life Sciences,28,39
+S12,PHP,Life Sciences,201,279
+S11,PHP,Life Sciences,205,294
+F10,PHP,Life Sciences,154,201
+S10,PHP,Life Sciences,155,220
+S15,APMA,Physical Sciences,216,444
+F14,APMA,Physical Sciences,162,292
+S14,APMA,Physical Sciences,342,538
+F13,APMA,Physical Sciences,337,520
+S13,APMA,Physical Sciences,235,299
+F12,APMA,Physical Sciences,148,212
+S12,APMA,Physical Sciences,186,282
+F11,APMA,Physical Sciences,125,163
+S11,APMA,Physical Sciences,363,544
+F10,APMA,Physical Sciences,232,450
+S10,APMA,Physical Sciences,288,422
+S15,CHEM,Physical Sciences,370,656
+F14,CHEM,Physical Sciences,37,45
+S14,CHEM,Physical Sciences,263,689
+F13,CHEM,Physical Sciences,357,573
+S13,CHEM,Physical Sciences,120,213
+F12,CHEM,Physical Sciences,443,686
+S12,CHEM,Physical Sciences,161,211
+F11,CHEM,Physical Sciences,187,278
+S11,CHEM,Physical Sciences,211,315
+F10,CHEM,Physical Sciences,364,579
+S10,CHEM,Physical Sciences,444,662
+S15,MATH,Physical Sciences,221,356
+F14,MATH,Physical Sciences,600,922
+S14,MATH,Physical Sciences,275,578
+F13,MATH,Physical Sciences,551,919
+S13,MATH,Physical Sciences,238,485
+F12,MATH,Physical Sciences,378,578
+S12,MATH,Physical Sciences,150,242
+F11,MATH,Physical Sciences,250,403
+S11,MATH,Physical Sciences,211,383
+F10,MATH,Physical Sciences,312,496
+S10,MATH,Physical Sciences,103,235
+S15,CSCI,Physical Sciences,526,1017
+F14,CSCI,Physical Sciences,627,1599
+S14,CSCI,Physical Sciences,924,1454
+F13,CSCI,Physical Sciences,587,1357
+S13,CSCI,Physical Sciences,341,533
+F12,CSCI,Physical Sciences,142,313
+S12,CSCI,Physical Sciences,291,583
+F11,CSCI,Physical Sciences,522,879
+S11,CSCI,Physical Sciences,351,722
+F10,CSCI,Physical Sciences,420,780
+S10,CSCI,Physical Sciences,275,469
+S15,ENGN,Physical Sciences,569,1033
+F14,ENGN,Physical Sciences,525,1217
+S14,ENGN,Physical Sciences,677,1168
+F13,ENGN,Physical Sciences,475,1068
+S13,ENGN,Physical Sciences,196,517
+F12,ENGN,Physical Sciences,652,1289
+S12,ENGN,Physical Sciences,190,372
+F11,ENGN,Physical Sciences,313,476
+S11,ENGN,Physical Sciences,378,624
+F10,ENGN,Physical Sciences,612,786
+S10,ENGN,Physical Sciences,452,780
+S15,PHYS,Physical Sciences,251,472
+F14,PHYS,Physical Sciences,253,523
+S14,PHYS,Physical Sciences,278,457
+F13,PHYS,Physical Sciences,226,331
+S13,PHYS,Physical Sciences,206,285
+F12,PHYS,Physical Sciences,154,258
+S12,PHYS,Physical Sciences,252,452
+F11,PHYS,Physical Sciences,122,165
+S11,PHYS,Physical Sciences,223,387
+F10,PHYS,Physical Sciences,281,520
+S10,PHYS,Physical Sciences,313,530
+S15,GEOL,Physical Sciences,165,197
+F14,GEOL,Physical Sciences,218,244
+S14,GEOL,Physical Sciences,152,194
+F13,GEOL,Physical Sciences,178,211
+S13,GEOL,Physical Sciences,167,218
+F12,GEOL,Physical Sciences,224,327
+S12,GEOL,Physical Sciences,166,236
+F11,GEOL,Physical Sciences,195,345
+S11,GEOL,Physical Sciences,267,320
+F10,GEOL,Physical Sciences,177,246

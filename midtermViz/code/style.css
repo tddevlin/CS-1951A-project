@@ -1,0 +1,67 @@
+rect.bordered {
+    stroke: white;
+    stroke-width: 0.5px;   
+}
+
+text {
+    font-size: 9pt;
+    font-family: Consolas, courier;
+    fill: #000;
+}
+
+text.mono {
+    font-size: 9pt;
+    font-family: Consolas, courier;
+    fill: #aaa;
+}
+
+text.Humanities {
+	fill: #E45B4E;
+}
+
+text.Social {
+	fill: #3A9D94;
+}
+
+text.Life {
+	fill: #293447;
+}
+
+text.Physical {
+	fill: #3187D1;
+}
+
+
+text.axis-workweek {
+    fill: #000;
+}
+
+text.axis-worktime {
+    fill: #000;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: gray;
+	margin-left: 20pt;
+	margin-right: 20pt;
+}
+
+p {
+	font-family: sans-serif;
+	margin-left: 20pt;
+	margin-right: 100pt;
+	color: gray;
+}
+
+a {
+	color: #41b6c4;
+	text-decoration: none;
+}
+
+div#chart {
+    float: left;
+}
+div#area {
+    display: inline-block;
+}
