@@ -52,6 +52,7 @@ p {
 	margin-left: 20pt;
 	margin-right: 100pt;
 	color: gray;
+	max-width: 650px;
 }
 
 a {

@@ -20,9 +20,15 @@
 <body>
 	<h1>Critical Review Response Rates</h1>
 
-  <p>Which departments are the most popular? Which departments 
+  <p>Which departments are the most popular? Which departments are most supportive of the <a href="http://www.thecriticalreview.org/">Critical Review</a>? Has support for the Critical Review increased or decreased over the last five years? In which departments?</p>
 
-  <p>The chart below plots Chicago crime levels according to day of the week and the time of day. Darker shades of blue represent higher crime levels, as indicated by the scale bar below the chart. (The numbers are raw crime counts from a dataset of over 40,000 total crimes.) The design of this visualization differs from that of <a href="http://bl.ocks.org/tjdecke/5558084">Tom May's</a> in that we have eliminated the rounded square corners and decreased the space between adjacent squares in order to avoid the <a href="https://en.wikipedia.org/wiki/Grid_illusion#Scintillating_grid_illusion">scintillating grid illusion</a>.</p>
+  <p>The visualization below attempts to answer some of these questions. On the vertical axis is a list of all departments at Brown, grouped by four broad disciplinary areas: humanities, social sciences, life sciences, physical sciences. Time is on the horizontal axis, starting with the Spring of 2010 (S10) and ending with the Spring of 2015 (S15). We have aggregated the Critical Review response data over all courses in a given department during a given semester.</p>
+
+  <p>The size (area) of the darker inner circle represents the number of Critical Review respondents. This circle is placed on top of a larger lighter circle whose size represents the total number of students (those who filled out a review + those who didn't). Thus, the size of the halo represents the degree to which students filled out reviews: larger halos mean less participation.</p>
+
+  <p>The visualization confirms some things that we already knew. For example, larger departments (e.g. Biology, Computer Science, Economics) tend to have larger circles, reflecting higher enrollment. The visualization also allows us to make new discoveries. One observation is that while Economics and History have similar numbers of respondents, there are significantly more total Economics students than History students. For some reason, History has a very high Critical Review response rate.</p>
+
+  <p>The visualization suffers from one flaw in particular. Due to the nature of the data, the chart actually has nothing to say about total enrollment in a department. The numbers are based only on those classes that submit Critical Review responses. It would be helpful to integrate the CR dataset with another one that has comprehensive enrollment information. Right now we can see how responsive students are to the CR given that their course has chosen to participate in the review process. Full enrollment data would allow us to gauge how responsive a department is to the CR on the whole.</p>
 
 
   <div id="chart"></div>
