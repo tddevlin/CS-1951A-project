@@ -5225,7 +5225,7 @@
 "Brian Young","DE","Texas-El Paso",74,278,4.94,29.5,27,106,7.2,4.47,"St. Louis Rams",5,139,2000
 "Rahim Abdullah","OLB","Clemson",77,244,4.85,34,17,118,NA,4.36,NA,2,45,1999
 "Ben Adams","OG",NA,77,324,5.36,25.5,26,98,NA,4.83,NA,NA,NA,1999
-"Phillip Armour","OC",NA,75,318,5.53,30.5,23,100,NA,4.59,NA,NA,NA,1999
+"Phillip Armour","C",NA,75,318,5.53,30.5,23,100,NA,4.59,NA,NA,NA,1999
 "Brendon Ayanbadejo","OLB",NA,73,234,4.67,36,18,117,NA,4.36,NA,NA,NA,1999
 "Jerry Azumah","RB","New Hampshire",70,195,4.48,43.5,15,132,NA,3.86,NA,5,147,1999
 "Champ Bailey","CB","Georgia",73,184,4.28,37,NA,121,NA,3.79,NA,1,7,1999
@@ -5261,7 +5261,7 @@
 "Brandon Bulsworth","OG",NA,76,308,5.01,31.5,24,111,NA,4.43,NA,NA,NA,1999
 "Thomas Burke","DE",NA,74,264,4.84,35,24,111,NA,4.38,NA,NA,NA,1999
 "Siaha Burley","WR",NA,71,166,4.53,34,NA,113,NA,4.16,NA,NA,NA,1999
-"Justin Burroughs","OC",NA,76,288,4.86,33,23,114,NA,4.23,NA,NA,NA,1999
+"Justin Burroughs","C",NA,76,288,4.86,33,23,114,NA,4.23,NA,NA,NA,1999
 "Dan Campbell","TE","Texas A&M",77,263,4.85,36,25,121,NA,4.07,NA,3,79,1999
 "Johndale Carty","FS","Utah State",73,192,4.58,40,12,126,NA,4.15,NA,4,126,1999
 "Anthony Cesario","OG","Colorado State",78,312,5.29,26.5,NA,103,NA,NA,NA,3,88,1999
@@ -5300,7 +5300,7 @@
 "Robert Daniel","DE","Northwestern State",78,281,5.04,28.5,24,110,NA,4.86,NA,6,175,1999
 "Oscar Davenport","QB",NA,76,199,4.9,31,NA,109,NA,4.82,NA,NA,NA,1999
 "Russell Davis","DT","North Carolina",76,294,4.95,27.5,27,104,NA,4.56,NA,2,48,1999
-"Eric De Groh","OC",NA,76,324,5.53,28,23,102,NA,4.56,NA,NA,NA,1999
+"Eric De Groh","C",NA,76,324,5.53,28,23,102,NA,4.56,NA,NA,NA,1999
 "James Dearth","TE","Tarleton State",76,273,5.01,29.5,25,112,NA,4.57,NA,6,191,1999
 "Autry Denson","RB","Notre Dame",70,197,4.67,31,20,116,NA,4.15,NA,7,233,1999
 "Dan Dercher","OT",NA,78,293,5.28,28,14,109,NA,4.49,NA,NA,NA,1999
@@ -5333,7 +5333,7 @@
 "Lennie Friedman","OG","Duke",75,301,5.36,29,25,100,NA,4.51,NA,2,61,1999
 "Todd Frohbieter","OT",NA,78,323,5.28,27,20,100,NA,4.51,NA,NA,NA,1999
 "Chris Gall","FB",NA,73,229,4.79,31,23,108,NA,4.34,NA,NA,NA,1999
-"Jason Gamble","OC",NA,74,302,5.18,28.5,24,105,NA,4.54,NA,NA,NA,1999
+"Jason Gamble","C",NA,74,302,5.18,28.5,24,105,NA,4.54,NA,NA,NA,1999
 "Mark Garcia","QB",NA,75,220,4.72,33.5,NA,108,NA,4.2,NA,NA,NA,1999
 "Barry Gardner","ILB","Northwestern",73,242,4.71,33,25,113,NA,4.32,NA,2,35,1999
 "Kelvin Garmon","OG","Baylor",75,329,5.09,25,23,96,NA,4.66,NA,7,243,1999
@@ -5435,7 +5435,7 @@
 "Cecil Martin","FB","Wisconsin",73,239,4.83,35.5,22,110,NA,4.22,NA,6,172,1999
 "Chris McAlister","CB","Arizona",73,205,4.53,38,NA,121,NA,4.08,NA,1,10,1999
 "Jonathan McCall","DE",NA,74,273,4.91,31,19,113,NA,4.38,NA,NA,NA,1999
-"Todd McClure","OC","LSU",74,298,5.24,28,29,98,NA,4.51,NA,7,237,1999
+"Todd McClure","C","LSU",74,298,5.24,28,29,98,NA,4.51,NA,7,237,1999
 "Kevin McCullar","OLB",NA,75,245,5,30,12,107,NA,4.21,NA,NA,NA,1999
 "Daylon McCutcheon","CB","USC",69,180,4.48,36,13,118,NA,4.35,NA,3,62,1999
 "Jeremy McDaniel","WR",NA,73,197,4.63,33.5,NA,112,NA,4.32,NA,NA,NA,1999
@@ -5468,18 +5468,18 @@
 "Joe Nastasi","WR",NA,71,197,4.64,37,NA,119,NA,4.06,NA,NA,NA,1999
 "Hannibal Navies","OLB","Colorado",75,239,4.64,33,18,114,NA,4.19,NA,4,100,1999
 "Gerald Neasman","CB",NA,70,186,4.64,31.5,10,115,NA,4.41,NA,NA,NA,1999
-"Jamar Nesbit","OC",NA,76,336,5.26,26.5,23,88,NA,4.91,NA,NA,NA,1999
-"Mike Newell","OC",NA,76,292,5.25,28.5,25,104,NA,4.69,NA,NA,NA,1999
+"Jamar Nesbit","C",NA,76,336,5.26,26.5,23,88,NA,4.91,NA,NA,NA,1999
+"Mike Newell","C",NA,76,292,5.25,28.5,25,104,NA,4.69,NA,NA,NA,1999
 "Robert Newkirk","DT",NA,75,298,5.21,26,20,105,NA,4.73,NA,NA,NA,1999
 "Keith Newman","ILB","North Carolina",75,239,4.78,32,18,111,NA,4.37,NA,4,119,1999
 "Dat Nguyen","ILB","Texas A&M",71,234,4.74,NA,19,NA,NA,NA,NA,3,85,1999
 "Ben Nichols","OG",NA,77,307,5.24,30,29,104,NA,4.67,NA,NA,NA,1999
 "Rick Nord","OG",NA,78,306,5.3,25.5,21,98,NA,4.73,NA,NA,NA,1999
-"Jeremy Offutt","OC",NA,77,310,5.17,26,20,100,NA,4.77,NA,NA,NA,1999
+"Jeremy Offutt","C",NA,77,310,5.17,26,20,100,NA,4.77,NA,NA,NA,1999
 "Kendell Ogle","OLB",NA,73,235,4.7,35,20,119,NA,4.05,NA,NA,NA,1999
 "Chike Okeafor","OLB","Purdue",77,254,4.74,36.5,17,118,NA,4.2,NA,3,89,1999
 "Patterson Owens","DE",NA,78,273,4.88,35,19,118,NA,4.34,NA,NA,NA,1999
-"Craig Page","OC",NA,75,295,5.13,32,38,117,NA,4.51,NA,NA,NA,1999
+"Craig Page","C",NA,75,295,5.13,32,38,117,NA,4.51,NA,NA,NA,1999
 "Solomon Page","OT","West Virginia",77,306,5.24,31.5,24,106,NA,NA,NA,2,55,1999
 "Anthony Parker","CB","Weber State",73,197,4.39,31,8,113,NA,4.27,NA,4,99,1999
 "DeMond Parker","RB","Oklahoma",70,189,4.49,41.5,13,120,NA,4.16,NA,5,159,1999
@@ -5506,16 +5506,16 @@
 "Jacoby Rhinehart","CB","Southern Methodist",71,187,4.61,34,NA,122,NA,4.11,NA,6,190,1999
 "Cleve Roberts","OT",NA,78,290,5.37,23.5,16,94,NA,4.86,NA,NA,NA,1999
 "Brian Rogers","ILB",NA,74,239,4.76,36,19,109,NA,4.39,NA,NA,NA,1999
-"Derek Rose","OC",NA,75,283,5.22,25.5,21,96,NA,4.9,NA,NA,NA,1999
+"Derek Rose","C",NA,75,283,5.22,25.5,21,96,NA,4.9,NA,NA,NA,1999
 "Marek Rubin","OT",NA,78,310,5.36,25,26,96,NA,4.76,NA,NA,NA,1999
 "Mike Rucker","DE","Nebraska",77,260,4.85,33.5,17,115,NA,4.33,NA,2,38,1999
-"Grey Ruegamer","OC","Arizona State",77,315,5.34,27.5,18,94,NA,4.68,NA,3,72,1999
+"Grey Ruegamer","C","Arizona State",77,315,5.34,27.5,18,94,NA,4.68,NA,3,72,1999
 "Orlando Ruff","ILB",NA,74,248,4.99,33,22,113,NA,4.33,NA,NA,NA,1999
 "Johnny Rutledge","ILB","Florida",74,245,4.63,33,18,115,NA,4.21,NA,2,51,1999
 "Khari Samuel","ILB","Massachusetts",75,242,4.84,35,24,118,NA,4.34,NA,5,144,1999
 "David Saunders","WR",NA,74,203,4.78,32,NA,112,NA,NA,NA,NA,NA,1999
 "Talance Sawyer","DE","UNLV",74,268,4.89,31.5,23,112,NA,4.35,NA,6,185,1999
-"Tom Schau","OC",NA,77,302,5.33,28,24,109,NA,4.53,NA,NA,NA,1999
+"Tom Schau","C",NA,77,302,5.33,28,24,109,NA,4.53,NA,NA,NA,1999
 "Brad Scioli","DE","Penn State",75,277,4.92,33.5,23,108,NA,4.27,NA,5,138,1999
 "Yusef Scott","OG",NA,74,324,5.76,24,NA,85,NA,NA,NA,NA,NA,1999
 "Thomas Seih","RB",NA,69,212,4.57,35,16,116,NA,4.31,NA,NA,NA,1999
@@ -5529,7 +5529,7 @@
 "Akili Smith","QB","Oregon",75,227,4.66,34,NA,114,NA,4.29,NA,1,3,1999
 "Brian Smith","OLB",NA,73,252,4.94,32.5,21,108,NA,4.67,NA,NA,NA,1999
 "Devon Smith","TE",NA,76,244,5.07,29.5,21,101,NA,4.46,NA,NA,NA,1999
-"Jeff Smith","OC",NA,76,286,5.23,25,38,102,NA,4.77,NA,NA,NA,1999
+"Jeff Smith","C",NA,76,286,5.23,25,38,102,NA,4.77,NA,NA,NA,1999
 "Larry Smith","DT","Florida State",77,288,5.12,30,22,111,NA,4.39,NA,2,56,1999
 "Marquis Smith","SS","California",75,218,4.6,39.5,NA,133,NA,4.12,NA,3,76,1999
 "Troy Smith","WR","East Carolina",73,194,4.64,35.5,NA,113,NA,4.24,NA,6,201,1999
@@ -5563,7 +5563,7 @@
 "John Thornton","DT","West Virginia",75,299,5,32,26,111,NA,4.46,NA,2,52,1999
 "Rex Tucker","OT","Texas A&M",77,303,5.23,30,27,106,NA,4.43,NA,3,66,1999
 "Jerame Tuman","TE","Michigan",76,248,4.85,33,23,113,NA,4.2,NA,5,136,1999
-"Brian Uhl","OC",NA,76,294,5.43,25,14,99,NA,4.77,NA,NA,NA,1999
+"Brian Uhl","C",NA,76,294,5.43,25,14,99,NA,4.77,NA,NA,NA,1999
 "Dimitrius Underwood","DE","Michigan State",78,281,4.88,NA,NA,NA,NA,4.39,NA,1,29,1999
 "Michael Vaughn","WR",NA,74,212,4.57,33.5,NA,113,NA,4.32,NA,NA,NA,1999
 "Fred Vinson","CB","Vanderbilt",71,177,4.39,36,14,121,NA,4.17,NA,2,47,1999
@@ -5592,7 +5592,7 @@
 "Brad Winn","OG",NA,77,339,5.59,23,23,87,NA,4.92,NA,NA,NA,1999
 "Jerry Wisne","OG","Notre Dame",79,306,5.24,28,30,100,NA,4.61,NA,5,143,1999
 "Joe Wong","OT","Brigham Young",78,314,5.68,27,22,100,NA,4.95,NA,7,244,1999
-"Damien Woody","OC","Boston College",75,328,5.14,28.5,26,100,NA,4.99,NA,1,17,1999
+"Damien Woody","C","Boston College",75,328,5.14,28.5,26,100,NA,4.99,NA,1,17,1999
 "Mark Word","OLB",NA,77,258,4.8,31.5,16,115,NA,4.33,NA,NA,NA,1999
 "Anthony Wright","QB",NA,74,195,4.67,31,NA,116,NA,4.35,NA,NA,NA,1999
 "Daren Yancey","DT","Brigham Young",78,303,5.13,26.5,NA,97,NA,NA,NA,6,188,1999
