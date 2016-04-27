@@ -19,7 +19,6 @@ for (i = 0; i < rows; i++) {
 d3.csv("summarizedData.csv", function(error, data) { dataViz(data); });
 
 function dataViz(data) {
-	console.log(data);
 	var svg = d3.select("#chart")
 		.append("svg")
 	    .attr("width", width + margin.left + margin.right)
@@ -231,4 +230,26 @@ function dataViz(data) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	svg.append("svg:image")
+		.attr('x', gridwidth * 2.19)
+	    .attr('y', gridheight * 3.99)
+	    .attr('width', 300)
+	    .attr('height', 300 * 808/1159)
+		.attr("xlink:href","key.png");
+/**
+	var key = svg.selectAll(".key")
+		.data(data)
+		.enter()
+		.append("text")
+		//.text(function(d, i) {
+		//	return d["Pos"];
+		//})
+		.html("a" + "<br/>" + "c")
+		.attr("x", 0)
+		.attr("y", function(d, i) {
+			return i * 15
+		})
+		.attr("transform", "translate(" + (gridwidth * 2.4) + 
+				"," + (gridheight * 4.2) + ")");
+**/
 }
