@@ -1,0 +1,43 @@
+rect.bordered {
+    stroke: white;
+    stroke-width: 0.5px;   
+}
+
+text {
+    font-size: 11pt;
+    font-family: Consolas, courier;
+    fill: gray;
+}
+
+text.statLabel {
+    font-size: 7pt;
+    font-family: Consolas, courier;
+    fill: gray;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: gray;
+	margin-left: 20pt;
+	margin-right: 20pt;
+}
+
+p {
+	font-family: sans-serif;
+	margin-left: 20pt;
+	margin-right: 100pt;
+	color: gray;
+	max-width: 650px;
+}
+
+a {
+	color: #41b6c4;
+	text-decoration: none;
+}
+
+div#chart {
+    float: left;
+}
+div#area {
+    display: inline-block;
+}

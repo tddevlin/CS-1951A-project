@@ -1,0 +1,225 @@
+Round,Pick,Value,Tm
+1,1,3000,Los Angeles Rams
+1,2,2600,Philadelphia Eagles
+1,3,2200,San Diego Chargers
+1,4,1800,Dallas Cowboys
+1,5,1700,Jacksonville Jaguars
+1,6,1600,Baltimore Ravens
+1,7,1500,San Francisco 49ers
+1,8,1400,Cleveland Browns
+1,9,1350,Tampa Bay Buccaneers
+1,10,1300,New York Giants
+1,11,1250,Chicago Bears
+1,12,1200,New Orleans Saints
+1,13,1150,Miami Dolphins
+1,14,1100,Oakland Raiders
+1,15,1050,Tennessee Titans
+1,16,1000,Detroit Lions
+1,17,950,Atlanta Falcons
+1,18,900,Indianapolis Colts
+1,19,875,Buffalo Bills
+1,20,850,New York Jets
+1,21,800,Washington Redskins
+1,22,780,Houston Texans
+1,23,760,Minnesota Vikings
+1,24,740,Cincinnati Bengals
+1,25,720,Pittsburgh Steelers
+1,26,700,Seattle Seahawks
+1,27,680,Green Bay Packers
+1,28,660,Kansas City Chiefs
+1,29,640,Arizona Cardinals
+1,30,620,Carolina Panthers
+1,31,600,Denver Broncos
+1,32,590,Cleveland Browns
+2,33,580,Tennessee Titans
+2,34,560,Dallas Cowboys
+2,35,550,San Diego Chargers
+2,36,540,Baltimore Ravens
+2,37,530,Kansas City Chiefs
+2,38,520,Jacksonville Jaguars
+2,39,510,Tampa Bay Buccaneers
+2,40,500,New York Giants
+2,41,490,Chicago Bears
+2,42,480,Miami Dolphins
+2,43,470,Tennessee Titans
+2,44,460,Oakland Raiders
+2,45,450,Tennessee Titans
+2,46,440,Detroit Lions
+2,47,430,New Orleans Saints
+2,48,420,Indianapolis Colts
+2,49,410,Buffalo Bills
+2,50,400,Atlanta Falcons
+2,51,390,New York Jets
+2,52,380,Houston Texans
+2,53,370,Washington Redskins
+2,54,360,Minnesota Vikings
+2,55,350,Cincinnati Bengals
+2,56,340,Seattle Seahawks
+2,57,330,Green Bay Packers
+2,58,320,Pittsburgh Steelers
+2,59,310,Kansas City Chiefs
+2,60,300,New England Patriots
+2,61,292,New England Patriots
+2,62,284,Carolina Panthers
+2,63,276,Denver Broncos
+2,64,270,Tennessee Titans
+3,65,265,Cleveland Browns
+3,66,260,San Diego Chargers
+3,67,255,Dallas Cowboys
+3,68,250,San Francisco 49ers
+3,69,245,Jacksonville Jaguars
+3,70,240,Baltimore Ravens
+3,71,235,New York Giants
+3,72,230,Chicago Bears
+3,73,225,Miami Dolphins
+3,74,220,Tampa Bay Buccaneers
+3,75,215,Oakland Raiders
+3,76,210,Cleveland Browns
+3,77,205,Cleveland Browns
+3,78,200,New Orleans Saints
+3,79,195,Philadelphia Eagles
+3,80,190,Buffalo Bills
+3,81,185,Atlanta Falcons
+3,82,180,Indianapolis Colts
+3,83,175,New York Jets
+3,84,170,Washington Redskins
+3,85,165,Houston Texans
+3,86,160,Minnesota Vikings
+3,87,155,Cincinnati Bengals
+3,88,150,Green Bay Packers
+3,89,145,Pittsburgh Steelers
+3,90,140,Seattle Seahawks
+3,91,136,New England Patriots
+3,92,132,Arizona Cardinals
+3,93,128,Carolina Panthers
+3,94,124,Seattle Seahawks
+3,95,120,Detroit Lions
+4,96,116,New England Patriots
+4,97,112,Seattle Seahawks
+4,98,108,Denver Broncos
+4,99,104,Cleveland Browns
+4,100,100,Cleveland Browns
+4,101,96,Dallas Cowboys
+4,102,92,San Diego Chargers
+4,103,88,Jacksonville Jaguars
+4,104,86,Baltimore Ravens
+4,105,84,Kansas City Chiefs
+4,106,82,Tampa Bay Buccaneers
+4,107,80,Miami Dolphins
+4,108,78,Tampa Bay Buccaneers
+4,109,76,New York Giants
+4,110,74,Los Angeles Rams
+4,111,72,Detroit Lions
+4,112,70,New Orleans Saints
+4,113,68,Los Angeles Rams
+4,114,66,Oakland Raiders
+4,115,64,Atlanta Falcons
+4,116,62,Indianapolis Colts
+4,117,60,Buffalo Bills
+4,118,58,New York Jets
+4,119,56,Houston Texans
+4,120,54,Washington Redskins
+4,121,52,Minnesota Vikings
+4,122,50,Cincinnati Bengals
+4,123,49,Pittsburgh Steelers
+4,124,48,Seattle Seahawks
+4,125,47,Green Bay Packers
+4,126,46,Kansas City Chiefs
+4,127,45,Chicago Bears
+5,128,44,Arizona Cardinals
+5,129,43,Carolina Panthers
+5,130,42,Baltimore Ravens
+5,131,41,Green Bay Packers
+5,132,40,Baltimore Ravens
+5,133,39.5,San Francisco 49ers
+5,134,39,Baltimore Ravens
+5,135,38.5,Dallas Cowboys
+5,136,38,Denver Broncos
+5,137,37.5,Green Bay Packers
+5,138,37,Cleveland Browns
+5,139,36.5,Buffalo Bills
+5,140,36,Tennessee Titans
+5,141,35.5,Cleveland Browns
+5,142,35,San Francisco 49ers
+5,143,34.5,Oakland Raiders
+5,144,34,Denver Broncos
+5,145,33.5,San Francisco 49ers
+5,146,33,Jacksonville Jaguars
+5,147,32.6,Miami Dolphins
+5,148,32.2,Tampa Bay Buccaneers
+5,149,31.8,New York Giants
+5,150,31.4,Chicago Bears
+5,151,31,Detroit Lions
+5,152,30.6,New Orleans Saints
+5,153,30.2,Philadelphia Eagles
+5,154,29.8,Oakland Raiders
+5,155,29.4,Indianapolis Colts
+5,156,29,Buffalo Bills
+5,157,28.6,Denver Broncos
+5,158,28.2,Washington Redskins
+5,159,27.8,Houston Texans
+5,160,27.4,Minnesota Vikings
+6,161,27,Cincinnati Bengals
+6,162,26.6,Kansas City Chiefs
+6,163,26.2,Green Bay Packers
+6,164,25.8,Philadelphia Eagles
+6,165,25.4,Kansas City Chiefs
+6,166,25,Houston Texans
+6,167,24.6,Arizona Cardinals
+6,168,24.2,Carolina Panthers
+6,169,23.8,Detroit Lions
+6,170,23.4,Arizona Cardinals
+6,171,23,Seattle Seahawks
+6,172,22.6,Cleveland Browns
+6,173,22.2,Cleveland Browns
+6,174,21.8,San Francisco 49ers
+6,175,21.4,San Diego Chargers
+6,176,21,Tennessee Titans
+6,177,20.6,Los Angeles Rams
+6,178,20.2,Kansas City Chiefs
+6,179,19.8,San Diego Chargers
+6,180,19.4,Minnesota Vikings
+6,181,19,Jacksonville Jaguars
+6,182,18.6,Baltimore Ravens
+6,183,18.2,Tampa Bay Buccaneers
+6,184,17.8,New York Giants
+6,185,17.4,Chicago Bears
+6,186,17,Miami Dolphins
+6,187,16.6,Washington Redskins
+6,188,16.2,Philadelphia Eagles
+6,189,15.8,Dallas Cowboys
+6,190,15.4,Los Angeles Rams
+6,191,15,Detroit Lions
+6,192,14.6,Buffalo Bills
+7,193,14.2,Tennessee Titans
+7,194,13.8,Oakland Raiders
+7,195,13.4,Houston Texans
+7,196,13,New England Patriots
+7,197,12.6,Tampa Bay Buccaneers
+7,198,12.2,San Diego Chargers
+7,199,11.8,Cincinnati Bengals
+7,200,11.4,Green Bay Packers
+7,201,11,Jacksonville Jaguars
+7,202,10.6,Detroit Lions
+7,203,10.2,Kansas City Chiefs
+7,204,9.8,New England Patriots
+7,205,9.4,Arizona Cardinals
+7,206,9,Chicago Bears
+7,207,8.6,Kansas City Chiefs
+7,208,8.2,New England Patriots
+7,209,7.8,Baltimore Ravens
+7,210,7.4,Detroit Lions
+7,211,7,San Francisco 49ers
+7,212,6.6,Dallas Cowboys
+7,213,6.2,San Francisco 49ers
+7,214,5.8,New England Patriots
+7,215,5.4,Seattle Seahawks
+7,216,5,Dallas Cowboys
+7,217,4.6,Dallas Cowboys
+7,218,4.2,Buffalo Bills
+7,219,3.8,Denver Broncos
+7,220,3.4,Pittsburgh Steelers
+7,221,3,New England Patriots
+7,222,2.6,Tennessee Titans
+7,223,2.3,Cleveland Browns
+7,224,2,San Diego Chargers

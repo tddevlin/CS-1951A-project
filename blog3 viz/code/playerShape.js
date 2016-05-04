@@ -16,9 +16,13 @@ for (i = 0; i < rows; i++) {
 	}
 }
 
-d3.csv("summarizedData.csv", function(error, data) { dataViz(data); });
+d3.csv("../data/summarizedAveData.csv", function(error, data) { 
+	d3.csv("../data/summarizedTopData.csv", function(error2, data2) {
+		dataViz(data, data2); 
+	});
+});
 
-function dataViz(data) {
+function dataViz(data, data2) {
 	var svg = d3.select("#chart")
 		.append("svg")
 	    .attr("width", width + margin.left + margin.right)
@@ -31,7 +35,7 @@ function dataViz(data) {
 	    .attr('y', gridheight * 3.99)
 	    .attr('width', 300)
 	    .attr('height', 300 * 808/1159)
-		.attr("xlink:href","key.png");
+		.attr("xlink:href","../data/key.png");
 
 	var rScale = d3.scale.linear()
 		.domain([0,1])
@@ -116,6 +120,25 @@ function dataViz(data) {
 		.attr("r", 2)
 		.attr("fill", "black");
 
+	var topPlayerShapes = svg.selectAll(".topPlayerShapes")
+		.data(data2)
+		.enter()
+		.append("path")
+		.attr("d", function(d, i) {
+			return hexLine([[d["Bench"], 0],
+				[d["Broad"], 1],
+				[d["Cone3"], 2],
+				[d["Shuttle"], 3],
+				[d["Vertical"], 4],
+				[d["Yd40"], 5]]) + "Z";
+		})
+		.attr("fill", "blue")
+		.attr("fill-opacity", 0.4)
+		.attr("transform", function(d, i) {
+			return "translate(" + (gridwidth * cellPosition[i][1] + gridwidth/2) + 
+				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
+		});
+
 	var playerShapes = svg.selectAll(".playerShapes")
 		.data(data)
 		.enter()
@@ -128,10 +151,8 @@ function dataViz(data) {
 				[d["Vertical"], 4],
 				[d["Yd40"], 5]]) + "Z";
 		})
-		.attr("fill", "#41b6c4")
-		.attr("fill-opacity", 0.8)
-		//.attr("stroke", "#41b6c4")
-		//.attr("stroke-width", 2)
+		.attr("fill", "red")
+		.attr("fill-opacity", 0.4)
 		.attr("transform", function(d, i) {
 			return "translate(" + (gridwidth * cellPosition[i][1] + gridwidth/2) + 
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
