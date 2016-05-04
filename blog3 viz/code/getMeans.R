@@ -32,7 +32,7 @@ topdat = dat %>%
     select(Pos, Yd40:Shuttle, CarAVPerSeason) %>%
     filter(CarAVPerSeason < Inf, !is.na(CarAVPerSeason)) %>%
     group_by(Pos) %>%
-    top_n(n = 5, wt = CarAVPerSeason) %>%
+    top_n(n = 10, wt = CarAVPerSeason) %>%
     summarize_each(funs(mean(., na.rm = T))) %>%
     mutate_each(funs(normalize), Yd40:Shuttle) %>%
     mutate_each(funs(invertTimes), c(Yd40, Cone3, Shuttle)) %>%
@@ -43,7 +43,8 @@ topdat[1,4] = rep(minVal,1)
 topdat[16,3] = rep(minVal,1)
 topdat[16,5:7] = rep(minVal,3)
 topdat[17,6:7] = rep(minVal,2)
-topdat[18,3:7] = rep(minVal,5)
+topdat[18,6:7] = rep(minVal,2)
+topdat[18,4] = rep(minVal,1)
 
 write.csv(avedat, "../data/summarizedAveData.csv", row.names = F)
 write.csv(topdat, "../data/summarizedTopData.csv", row.names = F)
