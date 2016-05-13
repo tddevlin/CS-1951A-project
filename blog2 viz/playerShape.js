@@ -1,3 +1,4 @@
+// global variables for margins, etc.
 var margin = {top: 20, right: 10, bottom: 20, left: 10};
 var width = 850 - margin.left - margin.right,
     height = 1200 - margin.top - margin.bottom;
@@ -19,6 +20,7 @@ for (i = 0; i < rows; i++) {
 d3.csv("summarizedData.csv", function(error, data) { dataViz(data); });
 
 function dataViz(data) {
+	// make svg
 	var svg = d3.select("#chart")
 		.append("svg")
 	    .attr("width", width + margin.left + margin.right)
@@ -26,6 +28,7 @@ function dataViz(data) {
 	    .append("g")
 	    .attr("transform","translate(" + margin.left + "," + margin.top + ")");
 
+	// add legend
 	svg.append("svg:image")
 		.attr('x', gridwidth * 2.19)
 	    .attr('y', gridheight * 3.99)
@@ -33,18 +36,22 @@ function dataViz(data) {
 	    .attr('height', 300 * 808/1159)
 		.attr("xlink:href","key.png");
 
+	// define radial scale
 	var rScale = d3.scale.linear()
 		.domain([0,1])
 		.range([0.2 * (Math.min(gridwidth, gridheight)/2 - gridpad),
 			Math.min(gridwidth, gridheight)/2 - gridpad]);
 
+	// parameters to make hexagons
 	hexData = [[1,0], [1,1], [1,2], [1,3], [1,4], [1,5]];
 
+	// draw hexagons
 	var hexLine = d3.svg.line.radial()
 		.radius( function(d) { return rScale(d[0]); })
 		.angle(function(d) {
 			return d[1]/6 * 2 * Math.PI;
 		});
+
 
 	var hexagons = svg.selectAll(".hexagons")
 		.data(data)

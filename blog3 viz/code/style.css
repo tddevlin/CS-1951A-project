@@ -4,13 +4,13 @@ rect.bordered {
 }
 
 text {
-    font-size: 11pt;
+    font-size: 14pt;
     font-family: Consolas, courier;
     fill: gray;
 }
 
 text.statLabel {
-    font-size: 7pt;
+    font-size: 8.2pt;
     font-family: Consolas, courier;
     fill: gray;
 }
