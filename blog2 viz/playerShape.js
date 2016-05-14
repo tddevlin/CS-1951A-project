@@ -45,14 +45,14 @@ function dataViz(data) {
 	// parameters to make hexagons
 	hexData = [[1,0], [1,1], [1,2], [1,3], [1,4], [1,5]];
 
-	// draw hexagons
+	// define hexagon line
 	var hexLine = d3.svg.line.radial()
 		.radius( function(d) { return rScale(d[0]); })
 		.angle(function(d) {
 			return d[1]/6 * 2 * Math.PI;
 		});
 
-
+	// draw hexagons
 	var hexagons = svg.selectAll(".hexagons")
 		.data(data)
 		.enter()
@@ -67,6 +67,7 @@ function dataViz(data) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// draw radial lines
 	lineData1 = [[1,0],[1,3]];
 	lineData2 = [[1,1],[1,4]];
 	lineData3 = [[1,2],[1,5]];
@@ -110,6 +111,7 @@ function dataViz(data) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// draw central dots
 	var dots = svg.selectAll(".dots")
 		.data(data)
 		.enter()
@@ -123,6 +125,7 @@ function dataViz(data) {
 		.attr("r", 2)
 		.attr("fill", "black");
 
+	// draw inner polygons based on player stats
 	var playerShapes = svg.selectAll(".playerShapes")
 		.data(data)
 		.enter()
@@ -144,6 +147,7 @@ function dataViz(data) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// add labels
 	var posLabels = svg.selectAll(".posLabels")
 		.data(data)
 		.enter()

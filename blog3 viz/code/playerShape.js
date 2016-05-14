@@ -1,3 +1,4 @@
+// global vars for margins, etc.
 var margin = {top: 20, right: 10, bottom: 20, left: 10};
 var width = 850 - margin.left - margin.right,
     height = 1200 - margin.top - margin.bottom;
@@ -23,6 +24,7 @@ d3.csv("../data/summarizedAveData.csv", function(error, data) {
 });
 
 function dataViz(data, data2) {
+	// svg canvas
 	var svg = d3.select("#chart")
 		.append("svg")
 	    .attr("width", width + margin.left + margin.right)
@@ -30,6 +32,7 @@ function dataViz(data, data2) {
 	    .append("g")
 	    .attr("transform","translate(" + margin.left + "," + margin.top + ")");
 
+	// add legend
 	svg.append("svg:image")
 		.attr('x', gridwidth * 2.19)
 	    .attr('y', gridheight * 3.99)
@@ -37,11 +40,13 @@ function dataViz(data, data2) {
 	    .attr('height', 300 * 808/1159)
 		.attr("xlink:href","../data/key.png");
 
+	// radial scale
 	var rScale = d3.scale.linear()
 		.domain([0,1])
 		.range([0.2 * (Math.min(gridwidth, gridheight)/2 - gridpad),
 			Math.min(gridwidth, gridheight)/2 - gridpad]);
 
+	// hexagonal line transform
 	hexData = [[1,0], [1,1], [1,2], [1,3], [1,4], [1,5]];
 
 	var hexLine = d3.svg.line.radial()
@@ -50,6 +55,7 @@ function dataViz(data, data2) {
 			return d[1]/6 * 2 * Math.PI;
 		});
 
+	// draw outer hexagons
 	var hexagons = svg.selectAll(".hexagons")
 		.data(data)
 		.enter()
@@ -64,6 +70,7 @@ function dataViz(data, data2) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// draw radial lines
 	lineData1 = [[1,0],[1,3]];
 	lineData2 = [[1,1],[1,4]];
 	lineData3 = [[1,2],[1,5]];
@@ -107,6 +114,7 @@ function dataViz(data, data2) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// draw central dots
 	var dots = svg.selectAll(".dots")
 		.data(data)
 		.enter()
@@ -120,6 +128,7 @@ function dataViz(data, data2) {
 		.attr("r", 2)
 		.attr("fill", "black");
 
+	// draw inner polygons based on top player stats
 	var topPlayerShapes = svg.selectAll(".topPlayerShapes")
 		.data(data2)
 		.enter()
@@ -139,6 +148,7 @@ function dataViz(data, data2) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// draw polygons based on all player stats
 	var playerShapes = svg.selectAll(".playerShapes")
 		.data(data)
 		.enter()
@@ -158,6 +168,7 @@ function dataViz(data, data2) {
 				"," + (gridheight * cellPosition[i][0] + gridheight/2) + ")"
 		});
 
+	// add labels
 	var posLabels = svg.selectAll(".posLabels")
 		.data(data)
 		.enter()

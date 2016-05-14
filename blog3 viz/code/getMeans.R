@@ -6,8 +6,10 @@ minVal = 0
 normalize = function(x) {
     (x - min(x, na.rm = T))/(max(x, na.rm = T) - min(x, na.rm = T))
 }
+
 # invert scores where less => better
 invertTimes = function(x) { 1 - x }
+
 # desired viz order
 ordering = c("QB", "WR", "RB","FB",
              "OT", "OG", "C", "TE",
@@ -15,6 +17,7 @@ ordering = c("QB", "WR", "RB","FB",
              "CB", "SS", "FS","LS",
              "P",  "K")
 
+# get averages for each position
 avedat = dat %>%
     group_by(Pos) %>%
     select(Yd40:Shuttle) %>%
@@ -46,5 +49,6 @@ topdat[17,6:7] = rep(minVal,2)
 topdat[18,6:7] = rep(minVal,2)
 topdat[18,4] = rep(minVal,1)
 
+# write to csv
 write.csv(avedat, "../data/summarizedAveData.csv", row.names = F)
 write.csv(topdat, "../data/summarizedTopData.csv", row.names = F)
